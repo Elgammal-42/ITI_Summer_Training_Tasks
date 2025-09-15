@@ -1,0 +1,14 @@
+C:\Users\AG\Desktop\Task4\Third\bin\Debug\net8.0\Third.exe
+C:\Users\AG\Desktop\Task4\Third\bin\Debug\net8.0\Third.deps.json
+C:\Users\AG\Desktop\Task4\Third\bin\Debug\net8.0\Third.runtimeconfig.json
+C:\Users\AG\Desktop\Task4\Third\bin\Debug\net8.0\Third.dll
+C:\Users\AG\Desktop\Task4\Third\bin\Debug\net8.0\Third.pdb
+C:\Users\AG\Desktop\Task4\Third\obj\Debug\net8.0\Third.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AG\Desktop\Task4\Third\obj\Debug\net8.0\Third.AssemblyInfoInputs.cache
+C:\Users\AG\Desktop\Task4\Third\obj\Debug\net8.0\Third.AssemblyInfo.cs
+C:\Users\AG\Desktop\Task4\Third\obj\Debug\net8.0\Third.csproj.CoreCompileInputs.cache
+C:\Users\AG\Desktop\Task4\Third\obj\Debug\net8.0\Third.dll
+C:\Users\AG\Desktop\Task4\Third\obj\Debug\net8.0\refint\Third.dll
+C:\Users\AG\Desktop\Task4\Third\obj\Debug\net8.0\Third.pdb
+C:\Users\AG\Desktop\Task4\Third\obj\Debug\net8.0\Third.genruntimeconfig.cache
+C:\Users\AG\Desktop\Task4\Third\obj\Debug\net8.0\ref\Third.dll

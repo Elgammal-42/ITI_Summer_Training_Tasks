@@ -1,0 +1,14 @@
+C:\Users\AG\Desktop\Task4\Second\bin\Debug\net8.0\Second.exe
+C:\Users\AG\Desktop\Task4\Second\bin\Debug\net8.0\Second.deps.json
+C:\Users\AG\Desktop\Task4\Second\bin\Debug\net8.0\Second.runtimeconfig.json
+C:\Users\AG\Desktop\Task4\Second\bin\Debug\net8.0\Second.dll
+C:\Users\AG\Desktop\Task4\Second\bin\Debug\net8.0\Second.pdb
+C:\Users\AG\Desktop\Task4\Second\obj\Debug\net8.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AG\Desktop\Task4\Second\obj\Debug\net8.0\Second.AssemblyInfoInputs.cache
+C:\Users\AG\Desktop\Task4\Second\obj\Debug\net8.0\Second.AssemblyInfo.cs
+C:\Users\AG\Desktop\Task4\Second\obj\Debug\net8.0\Second.csproj.CoreCompileInputs.cache
+C:\Users\AG\Desktop\Task4\Second\obj\Debug\net8.0\Second.dll
+C:\Users\AG\Desktop\Task4\Second\obj\Debug\net8.0\refint\Second.dll
+C:\Users\AG\Desktop\Task4\Second\obj\Debug\net8.0\Second.pdb
+C:\Users\AG\Desktop\Task4\Second\obj\Debug\net8.0\Second.genruntimeconfig.cache
+C:\Users\AG\Desktop\Task4\Second\obj\Debug\net8.0\ref\Second.dll
