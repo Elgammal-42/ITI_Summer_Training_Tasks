@@ -1,0 +1,14 @@
+C:\Users\AG\Desktop\Task-1\Task-1\bin\Debug\net8.0\Task-1.exe
+C:\Users\AG\Desktop\Task-1\Task-1\bin\Debug\net8.0\Task-1.deps.json
+C:\Users\AG\Desktop\Task-1\Task-1\bin\Debug\net8.0\Task-1.runtimeconfig.json
+C:\Users\AG\Desktop\Task-1\Task-1\bin\Debug\net8.0\Task-1.dll
+C:\Users\AG\Desktop\Task-1\Task-1\bin\Debug\net8.0\Task-1.pdb
+C:\Users\AG\Desktop\Task-1\Task-1\obj\Debug\net8.0\Task-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AG\Desktop\Task-1\Task-1\obj\Debug\net8.0\Task-1.AssemblyInfoInputs.cache
+C:\Users\AG\Desktop\Task-1\Task-1\obj\Debug\net8.0\Task-1.AssemblyInfo.cs
+C:\Users\AG\Desktop\Task-1\Task-1\obj\Debug\net8.0\Task-1.csproj.CoreCompileInputs.cache
+C:\Users\AG\Desktop\Task-1\Task-1\obj\Debug\net8.0\Task-1.dll
+C:\Users\AG\Desktop\Task-1\Task-1\obj\Debug\net8.0\refint\Task-1.dll
+C:\Users\AG\Desktop\Task-1\Task-1\obj\Debug\net8.0\Task-1.pdb
+C:\Users\AG\Desktop\Task-1\Task-1\obj\Debug\net8.0\Task-1.genruntimeconfig.cache
+C:\Users\AG\Desktop\Task-1\Task-1\obj\Debug\net8.0\ref\Task-1.dll
