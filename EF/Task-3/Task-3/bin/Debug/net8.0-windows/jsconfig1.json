@@ -1,0 +1,3 @@
+{
+  "constr": "Server = .; Database = EF_Dat=y3; Trusted_Connection = True;Encrypt=False"
+}
